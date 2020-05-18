@@ -3,5 +3,15 @@ public class TEST001 {
 
         System.out.println("我是哈哈");
         System.out.println("黑褐黑");
+        System.out.println("黑褐黑");
+        System.out.println("黑褐黑");
+        System.out.println("黑褐黑");
+        System.out.println("黑褐黑");   System.out.println("黑褐黑");   System.out.println("黑褐黑");
+        System.out.println("黑褐黑");   System.out.println("黑褐黑");
+
+
+
+
+
     }
 }
